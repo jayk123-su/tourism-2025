@@ -9,7 +9,7 @@ body{
 }
 
 main {
-    background-image: url("./image/hero-bg\ \(2\).png");
+    background-image: url('./images/hero-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh; 

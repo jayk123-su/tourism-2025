@@ -27,3 +27,4 @@ function handleSubmit(e){
 
 }
 document.getElementById("enquiryForm").addEventListener("submit",handleSubmit)
+
